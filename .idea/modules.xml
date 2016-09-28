@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IoTAppPlatform.iml" filepath="$PROJECT_DIR$/.idea/modules/IoTAppPlatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iotapp_felixrunner/iotapp_felixrunner.iml" filepath="$PROJECT_DIR$/.idea/modules/iotapp_felixrunner/iotapp_felixrunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-858783944/iotapp_library.iml" filepath="$PROJECT_DIR$/.idea/modules/-858783944/iotapp_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iotapp_logger/iotapp_logger.iml" filepath="$PROJECT_DIR$/.idea/modules/iotapp_logger/iotapp_logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iotapp_service/iotapp_service.iml" filepath="$PROJECT_DIR$/.idea/modules/iotapp_service/iotapp_service.iml" />
+    </modules>
+  </component>
+</project>

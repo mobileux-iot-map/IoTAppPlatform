@@ -1,0 +1,3 @@
+include ':iotapp_service', ':iotapp_felixrunner', ':iotapp_logger'
+include ':iotapp_library'
+project(':iotapp_library').projectDir = new File(settingsDir, '../IoTAppLibrary/iotapp_library');

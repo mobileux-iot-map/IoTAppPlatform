@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tdt_android_lib:jar">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/tdt_android_lib_jar</output-path>
+    <root id="archive" name="tdt_android_lib.jar">
+      <element id="module-output" name="tdt_android_lib" />
+    </root>
+  </artifact>
+</component>

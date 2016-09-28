@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iotapp_felixrunner:jar">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/iotapp_felixrunner_jar</output-path>
+    <root id="archive" name="iotapp_felixrunner.jar">
+      <element id="module-output" name="iotapp_felixrunner" />
+      <element id="module-output" name="iotapp_logger" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.6.1-RC1/fe76e182946faad493a50968f3344e848b467b42/slf4j-android-1.6.1-RC1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/iotapp_felixrunner/libs/felix.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
